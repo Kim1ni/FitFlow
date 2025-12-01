@@ -1,6 +1,6 @@
 # FitFlow
 
-> An AI-powered fitness assistant built with Google's Agent Development Kit (ADK). 
+> An AI-powered clothing fit assistant built with Google's Agent Development Kit (ADK). 
 
 FitFlow helps you find clothes that actually fit by learning from what already fits you well. Upload photos of your wardrobe, and our AI agents recommend marketplace items based on your measurements and fit history.
 ## 🎯 About The Project
